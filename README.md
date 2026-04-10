@@ -1,47 +1,35 @@
-# 👋 自己紹介 
-###
-- **氏名 : 本間勇翔**
-- **所属 : 北海道大学理学院**
-- **専攻 : 数学**
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=username" />
+</div>
 
----
 
-## 🚀 Technical Skills
+<!-- 2. プロフィールや連絡先を変更 -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Introduction
+北海道大学理学院修士課程１年の本間勇翔です。専攻は数学（数理科学系）ですが、趣味でコンピュータサイエンスなどについても学習しています。研究では主にC、C++を使用していました。研究のための実験ツールとしてUnityを使用してアプリケーションを作成したり、AI Agentを使用して個人開発なども少しだけ経験があります。
+<br>
 
-### 💻 Languages & Tools
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
-![Unity](https://img.shields.io/badge/-Unity-ffffff?logo=unity&style=flat&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat)
 
-### 📚 Academic Interests
-- **グラフ理論 / ネットワーク最適化**
-- **離散可積分系 / 超離散化**
-- **反応拡散系 / シミュレーション**
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,py,unity" />
+<br>
 
----
 
-## 🛠 Featured Project
-### [Graph Simulation](https://github.com/honmayuto02/GraphSimulation.git)
-**グラフ構造上における反応拡散系の進行パルス波シミュレーター**
-- **概要**: 任意のグラフを構築し、その上で反応拡散系の微分方程式を離散化してリアルタイムシミュレーションを行うツール。
-- **技術**: C#, Unity, グラフ理論（隣接行列/リスト）, 衝突消滅アルゴリズム
-- **こだわり**: 既存のアセットに頼らず、数理モデルの離散化ロジックから全て自作しました。
-- [📺 デモ動画はこちら](ここに動画URL)
+<!--
+This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=honmayuto02&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honmayuto02&layout=compact&theme=radical)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
----
-
-## 📫 Contact
-- **LabBase / サポーターズ**: 登録済み（プロフィールより詳細確認いただけます）
-- **Email**: hommayuto.job@gmail.com
-
----
-
-> **Fun Fact:** 複雑な電車の路線図を見ると、無意識に隣接行列でデータ構造を表現したくなります。
